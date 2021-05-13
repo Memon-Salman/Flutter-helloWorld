@@ -1,4 +1,4 @@
-# flutter-helloWorld-Assignment-JawanPak
+# Assignment-JawanPak
 
 A new Flutter project.
 
